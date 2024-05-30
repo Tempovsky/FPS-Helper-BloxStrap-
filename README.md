@@ -3,9 +3,9 @@
 
 **lower latency/ping:**
 
-{
+<br> {
 "DFIntConnectionMTUSize": 900
-} <br>
+<br> } <br>
 
 { <br>
 "FIntRakNetResendBufferArrayLength": "128", <br>
