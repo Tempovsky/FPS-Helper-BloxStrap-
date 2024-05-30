@@ -43,36 +43,37 @@
 <br>
 **higher fps:**
 <br>
-{
-"DFIntDebugFRMQualityLevelOverride": "1",
-"DFFlagTextureQualityOverrideEnabled": "True",
-"DFIntTextureQualityOverride": "3",
-"DFIntConnectionMTUSize": "900",
-"FFlagDebugDisableTelemetryEphemeralCounter": "True",
-"FFlagDebugDisableTelemetryEphemeralStat": "True",
-"FFlagDebugDisableTelemetryEventIngest": "True",
-"FFlagDebugDisableTelemetryPoint": "True",
-"FFlagDebugDisableTelemetryV2Counter": "True",
-"FFlagDebugDisableTelemetryV2Event": "True",
-"FFlagDebugDisableTelemetryV2Stat": "True",
-"FFlagDebugSkyGray": "true",
-"FFlagDebugDisplayFPS": "True",
-"FIntFRMMinGrassDistance": 0,
-"FIntFRMMaxGrassDistance": 0,
-"FIntRenderGrassDetailStrands": 0,
-"FintRenderGrassHeightScaler": 0,
-"DFIntMaxFrameBufferSize": "4",
-"DebugGraphicsDisableVulkan": "True",
-"DebugGraphicsDisableVulkan11": "True",
-"DebugGraphicsDisableOpenGL": "True",
-"DebugGraphicPreferD3D11": "True",
-"FIntRobloxGuiBlurIntensity": "0",
-"FIntFullscreenTitleBarTriggerDelayMillis": "18000000",
-"FFlagFastGPULightCulling3": "True",
-"FFlagNewLightAttenuation": "True",
-"FFlagDisablePostFx": "True",
-"DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": "0",
-"DFIntClientLightingEnvmapPlacementTelemetryHundredthsPercent": "100",
-"FIntMockClientLightingTechnologyIxpExperimentMode": "0",
-"FIntMockClientLightingTechnologyIxpExperimentQualityLevel": "7"
-} <br>
+{ <br>
+"DFIntDebugFRMQualityLevelOverride": "1", <br> 
+"DFFlagTextureQualityOverrideEnabled": "True", <br>
+"DFIntTextureQualityOverride": "3", <br> 
+"DFIntConnectionMTUSize": "900", <br> 
+"FFlagDebugDisableTelemetryEphemeralCounter": "True", <br> 
+"FFlagDebugDisableTelemetryEphemeralStat": "True", <br> 
+"FFlagDebugDisableTelemetryEventIngest": "True", <br> 
+"FFlagDebugDisableTelemetryPoint": "True", <br> 
+"FFlagDebugDisableTelemetryV2Counter": "True", <br> 
+"FFlagDebugDisableTelemetryV2Event": "True", <br> 
+"FFlagDebugDisableTelemetryV2Stat": "True", <br> 
+"FFlagDebugSkyGray": "true", <br> 
+"FFlagDebugDisplayFPS": "True", <br>
+"FIntFRMMinGrassDistance": 0, <br> 
+"FIntFRMMaxGrassDistance": 0, <br> 
+"FIntRenderGrassDetailStrands": 0, <br>
+"FintRenderGrassHeightScaler": 0, <br> 
+"DFIntMaxFrameBufferSize": "4", <br> 
+"DebugGraphicsDisableVulkan": "True", <br> 
+"DebugGraphicsDisableVulkan11": "True", <br> 
+"DebugGraphicsDisableOpenGL": "True", <br> 
+"DebugGraphicPreferD3D11": "True", <br> 
+"FIntRobloxGuiBlurIntensity": "0", <br> 
+"FIntFullscreenTitleBarTriggerDelayMillis": "18000000", <br> 
+"FFlagFastGPULightCulling3": "True", <br> 
+"FFlagNewLightAttenuation": "True", <br> 
+"FFlagDisablePostFx": "True", <br> 
+"DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": "0", <br> 
+"DFIntClientLightingEnvmapPlacementTelemetryHundredthsPercent": "100", <br> 
+"FIntMockClientLightingTechnologyIxpExperimentMode": "0", <br> 
+"FIntMockClientLightingTechnologyIxpExperimentQualityLevel": "7" <br> 
+}  <br>
+ 
