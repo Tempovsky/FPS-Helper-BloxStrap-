@@ -7,23 +7,23 @@
 "DFIntConnectionMTUSize": 900
 } <br>
 
-{
-"FIntRakNetResendBufferArrayLength": "128",
-"FFlagOptimizeNetwork": "True",
-"FFlagOptimizeNetworkRouting": "True",
-"FFlagOptimizeNetworkTransport": "True",
-"FFlagOptimizeServerTickRate": "True",
-"DFIntServerPhysicsUpdateRate": "60",
-"DFIntServerTickRate": "60",
-"DFIntRakNetResendRttMultiple": "1",
-"DFIntRaknetBandwidthPingSendEveryXSeconds": "1",
-"DFIntOptimizePingThreshold": "50",
-"DFIntPlayerNetworkUpdateQueueSize": "20",
-"DFIntPlayerNetworkUpdateRate": "60",
-"DFIntNetworkPrediction": "120",
-"DFIntNetworkLatencyTolerance": "1",
-"DFIntMinimalNetworkPrediction": "0.1"
-}
+{ <br>
+"FIntRakNetResendBufferArrayLength": "128", <br>
+"FFlagOptimizeNetwork": "True", <br>
+"FFlagOptimizeNetworkRouting": "True", <br> 
+"FFlagOptimizeNetworkTransport": "True", <br>
+"FFlagOptimizeServerTickRate": "True", <br> 
+"DFIntServerPhysicsUpdateRate": "60", <br> 
+"DFIntServerTickRate": "60", <br> 
+"DFIntRakNetResendRttMultiple": "1", <br>
+"DFIntRaknetBandwidthPingSendEveryXSeconds": "1", <br>
+"DFIntOptimizePingThreshold": "50", <br>
+"DFIntPlayerNetworkUpdateQueueSize": "20", <br> 
+"DFIntPlayerNetworkUpdateRate": "60", <br> 
+"DFIntNetworkPrediction": "120", <br> 
+"DFIntNetworkLatencyTolerance": "1", <br> 
+"DFIntMinimalNetworkPrediction": "0.1" <br> 
+} <br> 
 
 **no textures (higher fps):**
 
