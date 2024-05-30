@@ -3,7 +3,7 @@
 
 **lower latency/ping:**
 
-<br> {
+ { <br>
 "DFIntConnectionMTUSize": 900
 <br> } <br>
 
