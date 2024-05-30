@@ -13,7 +13,7 @@
 "FFlagOptimizeNetworkRouting": "True", <br> 
 "FFlagOptimizeNetworkTransport": "True", <br>
 "FFlagOptimizeServerTickRate": "True", <br> 
-"DFIntServerPhysicsUpdateRate": "60", <br> 
+"DFIntServerPhysicsUpdateRate": "60", 
 "DFIntServerTickRate": "60", <br> 
 "DFIntRakNetResendRttMultiple": "1", <br>
 "DFIntRaknetBandwidthPingSendEveryXSeconds": "1", <br>
